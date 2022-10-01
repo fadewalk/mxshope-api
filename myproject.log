@@ -1,0 +1,1 @@
+{"level":"info","ts":1664612826.7730749,"caller":"zap_log_file/main.go:24","msg":"failed to fetch URL{url 15 0 http://localhost <nil>} {attempt 11 3  <nil>} {backoff 8 1000000000  <nil>}"}
